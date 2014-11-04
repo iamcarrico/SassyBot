@@ -1,5 +1,6 @@
 [
   "do-it-live.coffee",
   "kittens.coffee",
-  "xkcd.coffee"
+  "xkcd.coffee",
+  "factoid.coffee"
 ]
